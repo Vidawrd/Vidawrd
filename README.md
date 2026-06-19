@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou Vidal!
+# 👋 Olá, eu sou Rodrigo Vidal!
 
-### 💻 Full Stack Engineer | 🖥️ IT Support | ⚙️ Systems Administrator
+### 🖥️ Junior IT Support Analyst | 🌐 Aspiring Full Stack Developer | ⚙️ SysAdmin
 
 <p>
-Apaixonado por tecnologia, desenvolvimento web, infraestrutura e automação.
+Tecnólogo em Sistemas para Internet, profissional de infraestrutura de TI e apaixonado por automação e desenvolvimento web.
 </p>
 
 </div>
@@ -14,18 +14,16 @@ Apaixonado por tecnologia, desenvolvimento web, infraestrutura e automação.
 
 ## 🚀 Sobre Mim
 
-Sou um profissional focado em tecnologia, atuando nas áreas de desenvolvimento, suporte técnico e administração de sistemas.
+Sou um profissional focado em tecnologia com quase dois anos de experiência corporativa em suporte técnico nível 1 e Júnior, atuando diretamente com infraestrutura, administração de sistemas e atendimento ao usuário. Minha bagagem prática inclui a manutenção preventiva de ativos, automação de rotinas em ambientes Windows/Linux e gerenciamento de hardware especializado.
 
-Atualmente busco evoluir constantemente minhas habilidades em:
+Atualmente, estou unindo essa sólida base de redes e servidores com a engenharia de software. Utilizo minha formação acadêmica para desenvolver aplicações web completas, eficientes e escaláveis, unindo o ecossistema de infraestrutura às boas práticas de desenvolvimento.
 
-- 🌐 Desenvolvimento Web
-- 🖥️ Suporte e Infraestrutura
-- ☁️ Computação em Nuvem
-- 🔒 Segurança da Informação
-- ⚙️ Automação de Processos
-- 📡 Redes de Computadores
+---
 
-Meu objetivo é construir soluções completas, unindo desenvolvimento, infraestrutura e boas práticas de TI.
+## 🎓 Formação Acadêmica
+
+- **Graduação Tecnológica em Sistemas para Internet**
+- **Formação Técnica em Informática** (Curso de 2 anos)
 
 ---
 
@@ -33,9 +31,14 @@ Meu objetivo é construir soluções completas, unindo desenvolvimento, infraest
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode,bash,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,linux,bash,mysql,git,github,vscode" />
 
 </div>
+
+### ⚙️ Competências Técnicas & Infraestrutura:
+- **Sistemas Operacionais:** Administração de ambientes Linux e Windows (análise avançada de processos e Tasklist).
+- **Hardware & Periféricos:** Configuração, diagnóstico e manutenção de estações de trabalho e hardware corporativo (incluindo digitalizadores documentais como Fujitsu fi-series).
+- **Redes & Automação:** Configuração de redes locais, protocolos estruturados e automação de tarefas rotineiras via Shell Script / Bash.
 
 ---
 
@@ -61,68 +64,10 @@ Meu objetivo é construir soluções completas, unindo desenvolvimento, infraest
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Atualmente Estudando & Especializações
 
 ```txt
-✔ HTML5
-✔ CSS3
-✔ JavaScript
-✔ Git e GitHub
-✔ Linux
-✔ Redes de Computadores
-✔ Administração de Sistemas
-```
-
----
-
-## 🎯 Objetivos para 2026
-
-- Criar projetos Full Stack completos
-- Aprimorar conhecimentos em Python
-- Dominar Linux Server
-- Aprender Docker
-- Aprender Cloud Computing
-- Conquistar certificações na área de TI
-- Construir um portfólio profissional sólido
-
----
-
-## 🏆 Certificações
-
-Em andamento...
-
-- Cisco Networking Academy
-- Linux Essentials
-- Git & GitHub
-- Desenvolvimento Web
-
----
-
-## 📂 Projetos em Destaque
-
-🚧 Em construção...
-
-- Sistema Bancário CLI
-- Estacionamento Console App
-- Landing Pages Responsivas
-- Projetos Full Stack
-
----
-
-## 🌎 Conecte-se Comigo
-
-<div align="center">
-
-<a href="https://github.com/Vidawrd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 "Transformando ideias em soluções através da tecnologia."
-
-</div>
+✔ Arquitetura de Redes e Conectividade (Cisco Networking Academy)
+✔ Administração Avançada de Servidores Linux (Linux Essentials)
+✔ Versionamento Avançado e Integração Contínua com Git & GitHub
+✔ Desenvolvimento Full Stack (Python, Bancos de Dados Relacionais e APIs)
